@@ -1,1 +1,1 @@
-# Haskell6
+# haskell
