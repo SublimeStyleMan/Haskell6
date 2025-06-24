@@ -27,6 +27,7 @@ library
   exposed-modules:
       BasicTypes
       Lib
+      TimeMachinesTypes
   other-modules:
       Paths_haskell
   autogen-modules:
